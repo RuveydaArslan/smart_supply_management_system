@@ -24,6 +24,14 @@ Java ile geliştirilmiş MVC mimarisine sahip bir tedarik ve sipariş yönetim s
 - Kritik stok uyarıları
 - Loglama sistemi
 
+## UML Diagrams
+
+- Class Diagram
+- Use Case Diagram
+- Sequence Diagram
+- State Diagram
+
+
 ## Proje Yapısı
 
 src/main/java
