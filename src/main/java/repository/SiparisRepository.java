@@ -15,7 +15,7 @@ import model.UrunModel;
 
 public class SiparisRepository {
 
-	private String dosyaYolu = "siparisler.txt";
+	private String dosyaYolu = "data/siparisler.txt";
 
 	public void kaydet(SiparisModel siparis) {
 		try (BufferedWriter writer = new BufferedWriter(new FileWriter(dosyaYolu, true))) {

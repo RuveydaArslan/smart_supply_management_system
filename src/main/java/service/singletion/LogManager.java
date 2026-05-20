@@ -8,7 +8,7 @@ public class LogManager {
 
 	private static LogManager instance;
 
-	private final String dosyYolu = "log.txt";
+	private final String dosyYolu = "data/log.txt";
 
 	private LogManager() {
 

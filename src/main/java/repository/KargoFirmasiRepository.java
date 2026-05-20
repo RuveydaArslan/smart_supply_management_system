@@ -11,7 +11,7 @@ import model.KargoFirmasiModel;
 
 public class KargoFirmasiRepository {
 
-	private String dosyaYolu = "kargo.txt";
+	private String dosyaYolu = "data/kargo.txt";
 
 	public List<KargoFirmasiModel> kargoFirmasiListele() {
 		List<KargoFirmasiModel> liste = new ArrayList<>();

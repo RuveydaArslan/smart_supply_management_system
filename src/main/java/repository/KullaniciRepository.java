@@ -14,7 +14,7 @@ import model.Role;
 
 public class KullaniciRepository {
 
-	private String dosyaYolu = "kullanici.txt";
+	private String dosyaYolu = "data/kullanici.txt";
 
 	public void kullaniciKaydet(KullaniciModel kullaniciModel) {
 		int yeniId = siradakiId();

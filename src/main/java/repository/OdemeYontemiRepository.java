@@ -11,7 +11,7 @@ import model.OdemeYontemiModel;
 
 public class OdemeYontemiRepository {
 
-	private String dosyaYolu = "odeme.txt";
+	private String dosyaYolu = "data/odeme.txt";
 
 	public List<OdemeYontemiModel> odemeYontemiListele() {
 		List<OdemeYontemiModel> liste = new ArrayList<>();

@@ -20,7 +20,7 @@ import service.singletion.LogManager;
 
 public class UrunRepository {
 
-	private String dosyaYolu = "urunler.txt";
+	private String dosyaYolu = "data/urunler.txt";
 	private KritikStokService kritikStokService = new KritikStokService();
 
 	public List<UrunModel> urunleriOku() {
