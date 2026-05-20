@@ -1,0 +1,7 @@
+1,kumanda,200.0,51,BASIT
+2,tabak,80.0,478,BASIT
+3,buzdolabı,80000.0,20,KARMASIK
+4,ayakkabı,1400.0,18,BASIT
+5,tablet,15000.0,15,KARMASIK
+6,tarak,100.0,115,BASIT
+7,bilgisayar,60000.0,28,KARMASIK

@@ -1,0 +1,25 @@
+1 | hatice nur | 312.0 | IADE_EDILDI | 28-04-2026 17:32 | 1:2,2:1
+2 | hatice nur | 84088.0 | IADE_EDILDI | 30-04-2026 12:28 | 3:2,3:1
+3 | hatice nur | 334.4 | IADE_SURECINDE | 30-04-2026 21:28 | 3:1,1:5
+4 | hatice nur | 308.9 | HAZIRLANIYOR | 30-04-2026 21:29 | 3:2,1:3
+5 | hatice nur | 88093.0 | TESLIM_EDILDI | 30-04-2026 21:30 | 3:4,2:1
+6 | hatice nur | 240.0 | IADE_EDILDI | 30-04-2026 21:36 | 3:1
+7 | hatice nur | 538.4 | HAZIRLANIYOR | 30-04-2026 23:50 | 2:2,3:2
+8 | hatice nur | 666.0 | HAZIRLANIYOR | 01-05-2026 03:01 | 1:1,2:5
+9 | hatice nur | 3370.0 | BEKLEMEDE | 01-05-2026 03:20 | 2:5,4:2
+10 | hatice nur | 16499.2 | TESLIM_EDILDI | 01-05-2026 16:50 | 2:3,5:1
+11 | hatice nur | 3185.0 | BEKLEMEDE | 01-05-2026 23:12 | 1:1,4:2
+12 | hatice nur | 15019.0 | BEKLEMEDE | 02-05-2026 03:14 | 5:1
+13 | hatice nur | 87.0 | BEKLEMEDE | 02-05-2026 13:25 | 2:1
+14 | hatice nur | 1410.0 | BEKLEMEDE | 02-05-2026 17:36 | 4:1
+15 | hatice nur | 1410.0 | BEKLEMEDE | 02-05-2026 17:36 | 4:1
+16 | hatice nur | 113.0 | BEKLEMEDE | 02-05-2026 18:03 | 6:1
+17 | hatice nur | 113.0 | BEKLEMEDE | 02-05-2026 18:03 | 6:1
+18 | hatice nur | 206.0 | BEKLEMEDE | 02-05-2026 18:31 | 6:2
+19 | hatice nur | 206.0 | BEKLEMEDE | 02-05-2026 18:31 | 6:2
+20 | ahsen | 30495.0 | TESLIM_EDILDI | 02-05-2026 22:16 | 1:2,5:2
+21 | ece | 611.0 | BEKLEMEDE | 12-05-2026 20:45 | 1:3
+22 | ece | 60040.0 | BEKLEMEDE | 12-05-2026 20:46 | 7:1
+23 | buse | 1738.0 | BEKLEMEDE | 13-05-2026 11:51 | 2:4,4:1
+24 | ece | 221.0 | BEKLEMEDE | 13-05-2026 14:01 | 6:2
+25 | irem | 323.0 | TESLIM_EDILDI | 13-05-2026 14:03 | 2:3

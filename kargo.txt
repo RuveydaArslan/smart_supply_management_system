@@ -1,0 +1,5 @@
+1,aras,2.0,0.04
+2,yurtici,4.0,0.04
+3,global expres,6.0,0.05
+6,hepsi jet,6.0,0.06
+7,ptt,5.0,1.0

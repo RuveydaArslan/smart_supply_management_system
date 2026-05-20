@@ -1,0 +1,12 @@
+package model;
+
+public enum SiparisDurumu {
+
+	BEKLEMEDE,
+	ONAYLANDI,
+	HAZIRLANIYOR,
+	KARGODA,
+	TESLIM_EDILDI,
+	IADE_SURECINDE,
+	IADE_EDILDI
+}
